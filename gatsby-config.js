@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
     title: `Dean Winchester`,
-    description: `A blog about frontend development`,
-    position: `Caçador de monstros, boa musica e cerveja de respeito.`,
+    position: `Caçador de monstro`,
+    description: `Caçador de monstros, boa musica e cerveja de respeito.`,
     author: `@deanwinchester`,
   },
   plugins: [

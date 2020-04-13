@@ -25,7 +25,7 @@ const Profile = () => {
                 <Avatar />
                 <S.ProfileAuthor>
                 {title}
-                <S.ProfilePosition><h2>{position}</h2></S.ProfilePosition>
+                <S.ProfilePosition>{position}</S.ProfilePosition>
                 </S.ProfileAuthor>
                 <S.ProfileDescription>{description}</S.ProfileDescription>
             </S.ProfileLink>
